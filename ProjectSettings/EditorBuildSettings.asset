@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/01_CarGame _wait.unity
+    guid: 54f24ff0264079c4f886db97d5f69cee
+  - enabled: 1
+    path: Assets/Scenes/02_CarGame _wait.unity
+    guid: ae4107a866c6fa84a8c07cf7c59d3780
+  - enabled: 1
+    path: Assets/Scenes/03_CarGame _last.unity
+    guid: d4f5a6f0e02830f4685b667e3bc8351d
+  m_configObjects: {}
